@@ -1,0 +1,15 @@
+D:\git_desktop\QLCF\QLCF\QLCF\bin\Debug\QLCF.exe.config
+D:\git_desktop\QLCF\QLCF\QLCF\bin\Debug\QLCF.exe
+D:\git_desktop\QLCF\QLCF\QLCF\bin\Debug\QLCF.pdb
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.Properties.Resources.resources
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.csproj.GenerateResource.Cache
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.exe
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.pdb
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.Login.resources
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.FormMain.resources
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.FormEmployee.resources
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.FormBranch.resources
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.FormFood.resources
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.FormDrink.resources
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.csprojResolveAssemblyReference.cache
+D:\git_desktop\QLCF\QLCF\QLCF\obj\Debug\QLCF.FormRevenue.resources
